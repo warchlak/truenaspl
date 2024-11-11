@@ -1,5 +1,5 @@
 # truenaspl
-Polska lokalizacja Truenas Scale - WIP
+Polska lokalizacja [Truenas Scale](https://github.com/truenas/) - WIP
 
 ### wersja stabilna, język ui - pl
 ```
