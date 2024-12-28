@@ -12,11 +12,18 @@ sudo /usr/local/libexec/disable-rootfs-protection
 ```
 sudo cp /mnt/ścieżka-do-tego-pliku/en.json /usr/share/truenas/webui/assets/i18n/pl.json
 ```
+lub aio
+```
+wget https://raw.githubusercontent.com/warchlak/truenaspl/refs/heads/main/en.json; sudo cp en.json /usr/share/truenas/webui/assets/i18n/pl.json; sudo service nginx restart; sudo service middlewared restart
+```
 
 ### wersja nightly, język ui - en
-
 ```
 sudo cp /mnt/ścieżka-do-tego-pliku/en.json /usr/share/truenas/webui/assets/i18n/
+```
+lub aio
+```
+wget https://raw.githubusercontent.com/warchlak/truenaspl/refs/heads/main/en.json; sudo cp en.json /usr/share/truenas/webui/assets/i18n/; sudo service nginx restart; sudo service middlewared restart
 ```
 
 ### obie wersje, restartujemy usługi
