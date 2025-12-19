@@ -1,5 +1,6 @@
 # TRUENAS<sub>PL</sub>
-Polska lokalizacja [Truenas Scale](https://github.com/truenas/) -- [Fangtooth](https://download.truenas.com/TrueNAS-SCALE-Fangtooth/25.04.0/?wrap=1) -- WIP -- **33%**
+Polska lokalizacja [Truenas Scale](https://github.com/truenas/) → [Fangtooth](https://download.truenas.com/TrueNAS-SCALE-Fangtooth/25.04.0/?wrap=1) ▪ WIP ▪ **33%**  
+W oparciu o [truenas/.../en.json](https://github.com/truenas/webui/blob/d2fd62021d24de361d27d6af132fb4b80e4c4c46/src/assets/i18n/en.json)
 
 ## odblokowujemy system plików
 ```Shell
