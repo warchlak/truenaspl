@@ -1,5 +1,5 @@
 # TRUENAS<sub>PL</sub>
-Polska lokalizacja [Truenas Scale](https://github.com/truenas/) → [Goldeye](https://download.truenas.com/TrueNAS-SCALE-Goldeye/25.10.4/) ▪ WIP ▪ **87%**  
+Polska lokalizacja [Truenas Scale](https://github.com/truenas/) → [Goldeye 25.10.4](https://download.truenas.com/TrueNAS-SCALE-Goldeye/25.10.4/) ▪ WIP ▪ **87%**  
 W oparciu o [truenas/.../en.json](https://github.com/truenas/webui/blob/d2fd62021d24de361d27d6af132fb4b80e4c4c46/src/assets/i18n/en.json)
 
 ## odblokowujemy system plików
